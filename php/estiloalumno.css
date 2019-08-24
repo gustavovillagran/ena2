@@ -1,0 +1,22 @@
+
+.button {
+	padding: 0em 0.5em 0em 0.5em;
+	
+}
+fieldset {
+	border: 6px solid #808080;
+	padding: 0.5em 0.5em 0.5em 0.5em;
+     
+    background-color: #F8F9F9  ; 
+}
+div {
+	clear: both;
+}
+form {
+	
+	float:left;
+	width:50%;
+	
+	text-align:left;
+}
+}
